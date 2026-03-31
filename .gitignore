@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+
+# Local tooling caches
+.netlify
+.vercel
+
+# Logs
+*.log
